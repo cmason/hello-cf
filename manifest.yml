@@ -1,0 +1,5 @@
+applications:
+- name: hello-cf
+  random-route: true
+  memory: 32M
+  instances: 2
